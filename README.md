@@ -72,7 +72,7 @@ Make sure you have the following installed:
    - Users can browse, book, and make payments online.
 
 ## Support & Customization
-For support or customization services, contact us at **support@yourdomain.com**.
+For support or customization services, contact us at **Saqibali.0748@gmail.com**.
 
 ## License
 This script is for personal and commercial use. Reselling or redistribution is not allowed without permission.
